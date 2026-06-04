@@ -29,10 +29,6 @@
 - **病证结合**：西医诊断锚定病种，中医辨证锁定证型，互不替代
 - **辅助定位**：所有结论为学术参考，不替代执业医师
 
-## 灵感来源
-
-架构范式借鉴 [dbskill](https://github.com/dontbesilent2025/dbskill) — 21 个 Agent skill 的商业诊断工具箱。
-
 ## 使用方式
 
 在支持 Skill 的 Agent 平台（OpenClaw / Claude Code / Codex / Cursor 等）中安装后，通过指令触发：
