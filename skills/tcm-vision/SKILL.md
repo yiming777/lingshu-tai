@@ -30,7 +30,7 @@ description: |
 | 经典条文需要原文扫描 | `references/literature-scans.md` |
 | 舌诊需要图库佐证 | `references/shexiang-atlas.md` |
 | 面诊需要图库佐证 | `references/mianxiang-atlas.md` |
-| 需要倪海厦课程截图 | `references/nihaisha-bridge.md` |
+| 需要倪海厦课程截图 | `references/nihaisha-bridge.md` → `references/external/nihaisha/` |
 
 ---
 

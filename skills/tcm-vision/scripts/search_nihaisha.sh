@@ -4,7 +4,7 @@
 # 用法: bash search_nihaisha.sh <关键词> [...]
 # ═══════════════════════════════════════════════════════
 SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
-INDEX_DIR="$SCRIPT_DIR/../references/nihaisha-screenshots"
+INDEX_DIR="$SCRIPT_DIR/../references/external/nihaisha"
 
 if [ $# -eq 0 ]; then
   echo "用法: bash search_nihaisha.sh <关键词> [...]"

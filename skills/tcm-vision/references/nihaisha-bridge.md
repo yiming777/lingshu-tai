@@ -11,17 +11,17 @@
 
 | 模块 | 截图张数 | 索引文件 |
 |------|:---:|------|
-| 伤寒论 | 649 | `nihaisha-screenshots/screenshot-evidence.md` |
-| 金匮要略 | 656 | `nihaisha-screenshots/jingui-screenshot-evidence.md` |
-| 针灸课程 | 501 | `nihaisha-screenshots/acupuncture-screenshot-evidence.md` |
-| 神农本草 | 127 | `nihaisha-screenshots/bencao-screenshot-evidence.md` |
-| 黄帝内经 | 272 | `nihaisha-screenshots/huangdi-screenshot-evidence.md` |
-| 天纪 | 527 | `nihaisha-screenshots/tianji-screenshot-evidence.md` |
-| 仲景心法 | 68 | `nihaisha-screenshots/zhongjing-xinfa-screenshot-evidence.md` |
-| 临床案例 | 88 | `nihaisha-screenshots/clinical-cases-screenshot-evidence.md` |
-| 八纲辨证 | 33 | `nihaisha-screenshots/bagang-screenshot-evidence.md` |
-| 扶阳论坛 | 37 | `nihaisha-screenshots/fuyang-screenshot-evidence.md` |
-| 易筋经 | 28 | `nihaisha-screenshots/yijinjing-screenshot-evidence.md` |
+| 伤寒论 | 649 | `external/nihaisha/shanghanlun-screenshots.md` |
+| 金匮要略 | 656 | `external/nihaisha/jingui-screenshots.md` |
+| 针灸课程 | 501 | `external/nihaisha/acupuncture-screenshots.md` |
+| 神农本草 | 127 | `external/nihaisha/bencao-screenshots.md` |
+| 黄帝内经 | 272 | `external/nihaisha/huangdi-screenshots.md` |
+| 天纪 | 527 | `external/nihaisha/tianji-screenshots.md` |
+| 仲景心法 | 68 | `external/nihaisha/zhongjing-xinfa-screenshots.md` |
+| 临床案例 | 88 | `external/nihaisha/clinical-cases-screenshots.md` |
+| 八纲辨证 | 33 | `external/nihaisha/bagang-screenshots.md` |
+| 扶阳论坛 | 37 | `external/nihaisha/fuyang-screenshots.md` |
+| 易筋经 | 28 | `external/nihaisha/yijinjing-screenshots.md` |
 | **合计** | **2986** | |
 
 ---
@@ -46,7 +46,7 @@ bash tcm-vision/scripts/search_nihaisha.sh 天纪 命宫
 ### 方式二：直接 grep 索引
 
 ```bash
-grep -r "桂枝汤" tcm-vision/references/nihaisha-screenshots/
+grep -r "桂枝汤" tcm-vision/references/external/nihaisha/
 ```
 
 ---
