@@ -38,6 +38,8 @@ skill 启动时先检查有没有辨证结论：
 - 如果当前对话已经走过 `tcm-bianzheng` 并得出了辨证结论 → 直接进入选方
 - 如果只有模糊的症状描述没有辨证 → 说：「先走 `/tcm-bianzheng` 辨证，方从证出。证不清，方不立。」
 
+> 🔗 **知识底座调用**：选方和加减时，优先打开 `~/.openclaw/plugin-skills/tcm-knowledge/references/fangji-db.md` 查方剂组成及剂量，打开 `zhongyao-db.md` 查每味药的性味归经和禁忌，打开 `safety.md` 审查安全边界。辨必有据，药必有考。
+
 ---
 
 ## Phase 1：确认辨证结论
