@@ -94,7 +94,8 @@ lingshu-tai/
 
 ### 2.1 Skill 命名规范
 
-- 前缀 `tcm-`：所有灵枢台 Skill
+- 前缀 `tcm-`：所有灵枢台子 Skill
+- 根路由 `tcm`：不遵循前缀规则，作为用户入口的直觉命令（`/tcm`）
 - 小写字母 + 连字符：`tcm-bianzheng` 不是 `tcm_bianzheng` 或 `TCM-BianZheng`
 - 简短自解释：`tcm-fangji` 不取名 `tcm-formula-recommendation`
 - 新增 Skill 从 `tcm-template/` 复制
