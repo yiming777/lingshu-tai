@@ -1,137 +1,93 @@
-# 倪海厦课程截图桥接指南
+# 倪海厦课程截图证据
 
 > 灵枢台 · tcm-vision 参考文件
-> 当需要方剂板书、穴位实操、病机图等视频证据时，复用 nihaisha-tcm 的截图检索系统
+> 2986 张倪海厦课程板书/PPT/实操截图证据索引，已内建至灵枢台
 
 ---
 
 ## 概述
 
-[nihaisha-tcm](https://github.com/JuneYaooo/nihaisha-tcm) 已将倪海厦课程视频中的关键板书/PPT/实操画面提取为 2986 张 WebP 截图，并建立了按关键词检索的索引系统。
+本目录已将 [nihaisha-tcm](https://github.com/JuneYaooo/nihaisha-tcm) 的截图证据索引（12 个 .md 文件，~700KB）直接导入灵枢台框架。数据来源标注清晰，不依赖外部 repo。
 
-灵枢台通过本桥接指南，可以在以下场景中利用这些截图证据：
-
-| 灵枢台场景 | nihaisha 截图来源 | 张数 |
-|-----------|------------------|:---:|
-| 方剂推荐（tcm-fangji）→ 需要方剂板书佐证 | 伤寒论 screenshot-evidence | 649 |
-| 方剂推荐 → 金匮要略经方佐证 | 金匮要略 jingui-screenshot-evidence | 656 |
-| 针灸配穴（tcm-zhenjiu）→ 需要穴位/经络图 | 针灸 acupuncture-screenshot-evidence | 501 |
-| 拆方解方（tcm-chaifang）→ 需要仲景心法病机图 | 仲景心法 zhongjing-xinfa-screenshot-evidence | 68 |
-| 本草药性查询 → 需要药物图文 | 神农本草 bencao-screenshot-evidence | 127 |
-| 内经理论 → 需要内经板书 | 黄帝内经 huangdi-screenshot-evidence | 272 |
-| 天纪/易经/术数 | 天纪 tianji-screenshot-evidence | 527 |
-
----
-
-## 安装 nihaisha（与灵枢台共存）
-
-```bash
-# 1. 克隆 nihaisha
-git clone https://github.com/JuneYaooo/nihaisha-tcm.git ~/nihaisha-tcm
-
-# 2. 安装为 OpenClaw Skill
-cd ~/nihaisha-tcm
-bash install_as_skill.sh --target openclaw
-# 或手动复制：
-cp -r ~/nihaisha-tcm ~/.openclaw/plugin-skills/nihaisha/
-
-# 3. 重启 Gateway
-openclaw gateway restart
-```
-
-安装后，灵枢台和 nihaisha 作为两个独立 Skill 共存，互不依赖。
+| 模块 | 截图张数 | 索引文件 |
+|------|:---:|------|
+| 伤寒论 | 649 | `nihaisha-screenshots/screenshot-evidence.md` |
+| 金匮要略 | 656 | `nihaisha-screenshots/jingui-screenshot-evidence.md` |
+| 针灸课程 | 501 | `nihaisha-screenshots/acupuncture-screenshot-evidence.md` |
+| 神农本草 | 127 | `nihaisha-screenshots/bencao-screenshot-evidence.md` |
+| 黄帝内经 | 272 | `nihaisha-screenshots/huangdi-screenshot-evidence.md` |
+| 天纪 | 527 | `nihaisha-screenshots/tianji-screenshot-evidence.md` |
+| 仲景心法 | 68 | `nihaisha-screenshots/zhongjing-xinfa-screenshot-evidence.md` |
+| 临床案例 | 88 | `nihaisha-screenshots/clinical-cases-screenshot-evidence.md` |
+| 八纲辨证 | 33 | `nihaisha-screenshots/bagang-screenshot-evidence.md` |
+| 扶阳论坛 | 37 | `nihaisha-screenshots/fuyang-screenshot-evidence.md` |
+| 易筋经 | 28 | `nihaisha-screenshots/yijinjing-screenshot-evidence.md` |
+| **合计** | **2986** | |
 
 ---
 
 ## 检索方式
 
-### 方式一：Python 搜索脚本（推荐）
-
-nihaisha 自带的搜索脚本：
+### 方式一：灵枢台内置搜索（推荐）
 
 ```bash
-cd ~/nihaisha-tcm
-
-# 按方名搜索
-python3 scripts/search_screenshots.py 桂枝汤
-python3 scripts/search_screenshots.py 小柴胡汤 加减
-
-# 按穴位搜索
-python3 scripts/search_screenshots.py 足三里
-python3 scripts/search_screenshots.py 任脉 督脉
-
-# 按病机搜索
-python3 scripts/search_screenshots.py 少阴 下利
-python3 scripts/search_screenshots.py 太阳 中风
-
-# 按课次搜索
-python3 scripts/search_screenshots.py 伤寒论 第12讲
+# 从灵枢台仓库根目录
+bash tcm-vision/scripts/search_nihaisha.sh <关键词>
 ```
 
-脚本返回匹配的截图路径（`assets/screenshots/...`），可用图片查看器打开。
+示例：
+```bash
+bash tcm-vision/scripts/search_nihaisha.sh 桂枝汤
+bash tcm-vision/scripts/search_nihaisha.sh 少阴 下利
+bash tcm-vision/scripts/search_nihaisha.sh 足三里
+bash tcm-vision/scripts/search_nihaisha.sh 天纪 命宫
+```
 
-### 方式二：直接 grep 索引文件
+### 方式二：直接 grep 索引
 
 ```bash
-# 伤寒论截图
-grep "桂枝汤" ~/nihaisha-tcm/references/screenshot-evidence.md
-
-# 金匮要略截图
-grep "胸痹" ~/nihaisha-tcm/references/jingui-screenshot-evidence.md
-
-# 针灸截图
-grep "足三里" ~/nihaisha-tcm/references/acupuncture-screenshot-evidence.md
+grep -r "桂枝汤" tcm-vision/references/nihaisha-screenshots/
 ```
+
+---
+
+## 截图文件
+
+### 下载截图（可选）
+
+索引文件只包含元数据（路径+时间戳+描述）。实际的 .webp 截图文件（~78MB）可通过同步脚本下载：
+
+```bash
+bash tcm-vision/scripts/sync_nihaisha_screenshots.sh
+```
+
+下载后截图存放在 `tcm-vision/assets/nihaisha/{模块}/`。
+
+### 不下载也能用
+
+索引文件已是纯文本，可以直接搜索关键词→获取截图文件名→知道"倪海厦在第 X 讲用什么板书讲了这个方"。只是不能直接打开看图片。
 
 ---
 
 ## 灵枢台调用流程
 
-在灵枢台的对应环节中，按需调用 nihaisha 截图：
-
-### tcm-fangji：方剂推荐时
+在辨证/方剂/针灸输出时，Agent 自动搜索截图索引并附加引用：
 
 ```
-Phase 5 方药输出 → 附加：
-> 📷 倪海厦课程板书参考：
-> 运行：cd ~/nihaisha-tcm && python3 scripts/search_screenshots.py {方名}
-```
-
-### tcm-zhenjiu：针灸配穴时
-
-```
-配穴输出 → 附加：
-> 📷 倪海厦针灸实操参考：
-> 运行：cd ~/nihaisha-tcm && python3 scripts/search_screenshots.py {穴位}
-```
-
-### tcm-chaifang：拆方时
-
-```
-拆方分析 → 附加：
-> 📷 仲景心法病机图参考：
-> 运行：cd ~/nihaisha-tcm && python3 scripts/search_screenshots.py {方名} 病机
+📷 倪海厦课程截图证据：
+  - 伤寒论·第X讲·桂枝汤板书 → assets/nihaisha/shanghanlun/xxx.webp
+  - 检索命令：bash tcm-vision/scripts/search_nihaisha.sh 桂枝汤
 ```
 
 ---
 
-## 边界说明
+## 数据来源
 
-| 能做的 | 不能做的 |
-|--------|---------|
-| ✅ 按方名查倪海厦板书 | ❌ 自动截图（需手动运行脚本） |
-| ✅ 按穴位查针灸实操 | ❌ 实时视频跳转 |
-| ✅ 按病机查仲景心法图 | ❌ 替代经典原文（截图是辅助，原文是根本） |
-| ✅ 按课次查课程板书 | ❌ 直接嵌入灵枢台输出（截图路径需手动查看） |
+- 原始数据：[nihaisha-tcm](https://github.com/JuneYaooo/nihaisha-tcm) by JuneYaooo
+- 使用范围：个人学习、学术引用（非商业）
+- 版权声明：课程截图版权归原权利人所有；侵权请联系删除
+- 索引文件导入时间：2026-06-05
 
 ---
 
-## 安全
-
-- nihaisha 截图来自公开课程视频，仅用于学术参考
-- 引用时标注来源：「倪海厦《{课程}》第 {X} 讲」
-- 不作为独立诊断依据，仅为学习辅助材料
-
----
-
-*桥接指南 v0.1 · nihaisha-tcm 版本：main*
+*内建索引 v0.1 · 2986 条证据 · 12 个索引文件 · ~700KB*
