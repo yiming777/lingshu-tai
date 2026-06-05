@@ -237,21 +237,35 @@ cp -r skills/tcm-template skills/tcm-{新名称}
 
 ## 七、Git 规范
 
-### 7.1 Commit 格式
+### 7.1 Commit 格式（Conventional Commits）
 
 ```
-<类型>: <简短描述>
+<type>: <简短描述>
 
 <详细说明（可选）>
 ```
 
-类型：`新增` | `修复` | `优化` | `重构` | `文档`
+**类型**（双语，优先英文）：
+
+| Type | 中文 | 用途 |
+|------|------|------|
+| `feat` | 新增 | 新 Skill、新功能、新数据 |
+| `fix` | 修复 | Bug 修复、数据纠错 |
+| `docs` | 文档 | 文档更新、README、注释 |
+| `refactor`| 重构 | 代码/结构重构（不改变功能） |
+| `style` | 格式 | 格式调整、命名修正 |
+| `data` | 数据 | 知识库数据增删改 |
+| `audit` | 审计 | 宪章合规检查与修复 |
 
 示例：
 ```
-新增 tcm-vision: 视觉证据层——文献扫描+截图索引
+feat: 新增 tcm-vision 视觉证据层
 
-优化 tcm-bianzheng: SKILL.md 25KB→7KB，内容外挂 references/
+docs: 更新 README 安装说明
+
+data: 导入 nihaisha 临床案例 48 例
+
+audit: 全部 Skill ≤7KB 合规修复
 ```
 
 ### 7.2 禁止提交
