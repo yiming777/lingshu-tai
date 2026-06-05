@@ -178,6 +178,8 @@ description: |
 
 辨证确认后输出方药+针灸简要建议。详细方药分析转 `/tcm-fangji`，详细针灸转 `/tcm-zhenjiu`。
 
+**输出方药建议时，必须加载 `tcm-knowledge/references/safety.md` 做安全审查。** 发现高风险方药时采用与 tcm-fangji Phase 6 相同的分级警告模板。
+
 ---
 
 ## Phase 6A：回顾与下一步
