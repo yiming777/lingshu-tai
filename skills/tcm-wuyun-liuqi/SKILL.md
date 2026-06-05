@@ -28,6 +28,7 @@ description: |
 | 场景 | 加载文件 |
 |------|---------|
 | 干支/运气/客主加临速查 | `references/wuyun-tables.md` |
+| 天纪融合（时空双维） | `references/wuyun-tianji-bridge.md` |
 | 输出格式模板 | 本文件 Phase 7 |
 
 ---
