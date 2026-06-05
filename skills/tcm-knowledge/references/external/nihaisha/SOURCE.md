@@ -15,3 +15,10 @@
 | `clinical-cases-part1.md` | 倪海厦临床案例（上）— 48 案例逐课精要 1-21 | 53KB |
 | `clinical-cases-part2.md` | 倪海厦临床案例（下）— 延伸主题分析 | 56KB |
 | `symptom-index.md` | 症状→六经/方证路由表 | 8KB |
+
+## 2026-06-05 补充导入（P6b）
+
+| 文件 | 内容 | 大小 |
+|------|------|:---:|
+| `fangji-ni-annotations.md` | 倪海厦方剂注解——28 首核心方剂的倪氏临床视角 | ~2KB |
+| `tiaowen-ni-annotations.md` | 倪海厦经典条文注解——14 条伤寒+12 条金匮+5 条心法 | ~2KB |
