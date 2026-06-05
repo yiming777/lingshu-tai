@@ -36,6 +36,8 @@ description: |
 | 运气调用规则 | `references/wuyun-call-rules.md` |
 | 案例参考 | `references/case-library.md` |
 | 白话主诉映射 | `references/beginner-mapping.md` |
+| 经典原文扫描路径 | `../tcm-vision/references/literature-scans.md` |
+| 倪海厦课程截图 | `../tcm-vision/references/nihaisha-bridge.md` |
 
 ---
 
@@ -168,7 +170,9 @@ description: |
 
 ## 经典出处
 - {经典来源}：{条文编号}「{原文摘录}」
-（来源：tcm-knowledge/jingdian-tiaowen.md）
+  📷 原文扫描：`tcm-vision/references/literature-scans.md` → {扫描件路径}
+- {如需倪海厦课程截图佐证，附加：📷 nihaisha → `python3 scripts/search_screenshots.py {关键词}`}
+（文字来源：tcm-knowledge/jingdian-tiaowen.md · 扫描索引：tcm-vision/literature-scans.md · 课程截图：tcm-vision/nihaisha-bridge.md）
 
 ## 关键鉴别
 与{混淆证型}的鉴别要点：{1-2个关键区别}
