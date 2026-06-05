@@ -155,8 +155,17 @@ const server = http.createServer((req, res) => {
   }
 });
 
-server.listen(PORT, '127.0.0.1', () => {
+server.listen(PORT, '0.0.0.0', () => {
+  const os = require('os');
+  const ifaces = os.networkInterfaces();
   console.log(`灵枢台中控桥接已就绪 → http://127.0.0.1:${PORT}`);
+  Object.values(ifaces).forEach(iface => {
+    iface.forEach(addr => {
+      if (addr.family === 'IPv4' && !addr.internal) {
+        console.log(`  手机访问 → http://${addr.address}:${PORT}`);
+      }
+    });
+  });
   console.log(`  会话: ${SESSION_KEY}`);
   console.log(`  静态: ${ROOT}`);
 });
