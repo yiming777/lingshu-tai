@@ -4,40 +4,69 @@
 
 以《灵枢》"经脉为纪、阴阳为纲"之思，构建从四诊到辨证、从方药到针灸、从运气到医案的全流程中医智能辅助系统。
 
+## 项目结构
+
+```
+lingshu-tai/
+├── skills/                    # 11 个 TCM Skill
+│   ├── tcm/                   # 主路由入口
+│   ├── tcm-bianzheng/         # 核心辨证（五层漏斗）
+│   ├── tcm-wuyun-liuqi/       # 五运六气推算
+│   ├── tcm-fangji/            # 方剂推荐
+│   ├── tcm-benchi/            # 标本缓急
+│   ├── tcm-jianbie/           # 类证鉴别
+│   ├── tcm-chaifang/          # 拆方解方
+│   ├── tcm-zhenjiu/           # 针灸配穴
+│   ├── tcm-save/              # 医案存档
+│   ├── tcm-restore/           # 复诊接续
+│   └── tcm-report/            # 医案报告
+└── dashboard/                 # 粒子全息中控台
+    ├── index.html             # 主界面（Three.js）
+    ├── server.js              # 桥接服务器（OpenClaw API）
+    └── package.json           # 依赖清单
+```
+
+## 依赖
+
+- **OpenClaw Gateway** — Agent 运行时
+- **DeepSeek V4 Pro** — 推理模型
+- **Node.js ≥ 18** — 中控台桥接服务
+
+## 安装
+
+### Skills
+
+```bash
+# 复制到 OpenClaw plugin-skills 目录
+cp -r skills/tcm* ~/.openclaw/plugin-skills/
+openclaw gateway restart
+```
+
+### 中控台
+
+```bash
+cd dashboard
+node server.js
+# 浏览器打开 http://localhost:3333
+```
+
+## 启动命令速查
+
+```bash
+openclaw gateway start              # Gateway
+cd dashboard && node server.js      # 中控台
+http://localhost:3333               # 中控台界面
+http://127.0.0.1:18789              # Gateway Dashboard
+```
+
+## 平台
+
+| 项目 | Mac (当前) | Windows |
+|------|-----------|---------|
+| Gateway | ✅ | 待迁移 |
+| Skills | ✅ | 复制即用 |
+| Dashboard | ✅ | Node.js 跨平台 |
+
 ---
 
-## 架构
-
-```
-灵枢台（tcm）
-├── tcm-bianzheng      ← 核心辨证（八纲/脏腑/六经/卫气营血/三焦）
-├── tcm-wuyun-liuqi    ← 五运六气推算 + 时气病预测
-├── tcm-fangji         ← 方剂推荐 + 加减化裁
-├── tcm-benchi         ← 标本缓急分析
-├── tcm-jianbie        ← 类证鉴别
-├── tcm-chaifang       ← 拆方解方
-├── tcm-zhenjiu        ← 针灸配穴
-├── tcm-save           ← 医案存档
-├── tcm-restore        ← 复诊接续
-└── tcm-report         ← 医案报告合并
-```
-
-## 设计哲学
-
-- **逐层收敛**：从八纲到脏腑到六经，层层缩小辨证空间，禁止跳跃
-- **运气为背景**：自动嵌入当前五运六气格局，提供时气参照
-- **病证结合**：西医诊断锚定病种，中医辨证锁定证型，互不替代
-- **辅助定位**：所有结论为学术参考，不替代执业医师
-
-## 使用方式
-
-在支持 Skill 的 Agent 平台（OpenClaw / Claude Code / Codex / Cursor 等）中安装后，通过指令触发：
-
-- `/tcm` — 主路由
-- `/tcm-bianzheng` — 辨证
-- `/tcm-wuyun-liuqi` — 运气推算
-- ……
-
-## 作者
-
-仲图·智衍（一铭）
+*既济 · 仲图·智衍 · 丙午年*
