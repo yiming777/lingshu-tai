@@ -27,6 +27,8 @@ metadata:
 | 经典条文引用 | `references/jingdian-tiaowen.md` | 需要引用出处佐证辨证时 |
 | 证型标准定义 | `references/zhenghou-db.md` | 辨证时需要确认证型诊断标准 |
 | 安全警告 | `references/safety.md` | 开出高风险方药时 |
+| 倪海厦临床案例 | `references/external/nihaisha/clinical-cases-part1.md` 或 `part2.md` | 辨证/方剂时需参考倪海厦医案佐证 |
+| 症状→六经路由 | `references/external/nihaisha/symptom-index.md` | 症状模糊时按六经维度快速定位 |
 
 ## 加载策略
 
