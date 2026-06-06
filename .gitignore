@@ -1,0 +1,26 @@
+# 灵枢台 .gitignore
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 密钥和配置
+.env
+*.key
+*.pem
+credentials.json
+
+# Node
+node_modules/
+npm-debug.log*
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
