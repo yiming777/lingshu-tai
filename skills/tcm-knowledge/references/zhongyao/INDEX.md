@@ -177,10 +177,20 @@
 酸枣仁	suan-zao-ren	安神药·养心安神	甘酸平·肝胆心	无毒		zhongyao-tan-shen-feng.md	645
 远志	yuan-zhi	安神药·养心安神	苦辛温·心肾肺	无毒		zhongyao-tan-shen-feng.md	682
 合欢皮	he-huan-pi	安神药·养心安神	甘平·心肝肺	无毒		zhongyao-tan-shen-feng.md	719
-天麻	tian-ma	平肝熄风药·平抑肝阳	甘平·肝	无毒		zhongyao-tan-shen-feng.md	759
-钩藤	gou-teng	平肝熄风药·息风止痉	甘凉·肝心包	无毒		zhongyao-tan-shen-feng.md	798
-石决明	shi-jue-ming	平肝熄风药·平抑肝阳	咸寒·肝	无毒		zhongyao-tan-shen-feng.md	835
-全蝎	quan-xie	平肝熄风药·息风止痉	辛平·肝	有毒	◆	zhongyao-tan-shen-feng.md	871
+柏子仁	bai-zi-ren	安神药·养心安神	甘平·心肾大肠	无毒		zhongyao-tan-shen-feng.md	757
+首乌藤	shou-wu-teng	安神药·养心安神	甘平·心肝	无毒		zhongyao-tan-shen-feng.md	793
+灵芝	ling-zhi	安神药·养心安神	甘平·心肺肝肾	无毒		zhongyao-tan-shen-feng.md	830
+龙骨	long-gu	安神药·重镇安神	甘涩平·心肝肾	无毒		zhongyao-tan-shen-feng.md	867
+天麻	tian-ma	平肝熄风药·平抑肝阳	甘平·肝	无毒		zhongyao-tan-shen-feng.md	905
+钩藤	gou-teng	平肝熄风药·息风止痉	甘凉·肝心包	无毒		zhongyao-tan-shen-feng.md	944
+石决明	shi-jue-ming	平肝熄风药·平抑肝阳	咸寒·肝	无毒		zhongyao-tan-shen-feng.md	981
+全蝎	quan-xie	平肝熄风药·息风止痉	辛平·肝	有毒	◆	zhongyao-tan-shen-feng.md	1017
+牡蛎	mu-li	平肝熄风药·平抑肝阳	咸微寒·肝胆肾	无毒		zhongyao-tan-shen-feng.md	1053
+代赭石	dai-zhe-shi	平肝熄风药·平抑肝阳	苦寒·肝心肺胃	有小毒	▲	zhongyao-tan-shen-feng.md	1090
+地龙	di-long	平肝熄风药·息风止痉	咸寒·肝脾膀胱	无毒		zhongyao-tan-shen-feng.md	1126
+僵蚕	jiang-can	平肝熄风药·息风止痉	咸辛平·肝肺胃	无毒		zhongyao-tan-shen-feng.md	1163
+蒺藜	ji-li	平肝熄风药·平抑肝阳	苦辛平·肝	有小毒	▲	zhongyao-tan-shen-feng.md	1200
+罗布麻	luo-bu-ma	平肝熄风药·平抑肝阳	甘苦凉·肝	有小毒	▲	zhongyao-tan-shen-feng.md	1237
 人参	ren-shen	补虚药·补气	甘微苦微温·脾肺心肾	无毒		zhongyao-bu-yi-se.md	11
 党参	dang-shen	补虚药·补气	甘平·脾肺	无毒		zhongyao-bu-yi-se.md	50
 黄芪	huang-qi	补虚药·补气	甘微温·脾肺	无毒		zhongyao-bu-yi-se.md	84
