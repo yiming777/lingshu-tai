@@ -14,7 +14,7 @@ FILES = [
     "zhongyao-huo-xue.md",
     "zhongyao-wen-hua.md",
     "zhongyao-tan-shen-feng.md",
-    "zhongyao-bu-yi-se.md",
+    "zhongyao-bu-yi-se.md", "zhongyao-shou-se.md",
 ]
 
 # Chinese section name → English key mapping

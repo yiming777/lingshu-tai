@@ -31,7 +31,8 @@ metadata:
 | 理气/消食药全文 | `references/zhongyao/zhongyao-qi-xue.md` | 拆方、加减、药性分析（22味） |
 | 止血/活血化瘀药全文 | `references/zhongyao/zhongyao-huo-xue.md` | 拆方、加减、药性分析（23味） |
 | 化痰/安神/平肝熄风药全文 | `references/zhongyao/zhongyao-tan-shen-feng.md` | 拆方、加减、药性分析（24味） |
-| 补虚/收涩药全文 | `references/zhongyao/zhongyao-bu-yi-se.md` | 拆方、加减、药性分析（38味） |
+| 补虚药全文 | `references/zhongyao/zhongyao-bu-yi-se.md` | 拆方、加减、药性分析（35味） |
+| 收涩药全文 | `references/zhongyao/zhongyao-shou-se.md` | 拆方、加减、药性分析（10味） |
 | 经典条文引用 | `references/jingdian-tiaowen.md` | 需要引用出处佐证辨证时 |
 | 证型标准定义 | `references/zhenghou-db.md` | 辨证时需要确认证型诊断标准 |
 | 安全警告 | `references/safety.md` | 开出高风险方药时 |

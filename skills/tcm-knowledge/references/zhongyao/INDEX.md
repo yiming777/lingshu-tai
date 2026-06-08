@@ -226,6 +226,13 @@
 补骨脂	bu-gu-zhi	补虚药·补阳	辛苦温·肾脾	有小毒	▲	zhongyao-bu-yi-se.md	1194
 益智仁	yi-zhi-ren	补虚药·补阳	辛温·脾肾	无毒		zhongyao-bu-yi-se.md	1232
 仙茅	xian-mao	补虚药·补阳	辛热·肾肝脾	有毒	◆	zhongyao-bu-yi-se.md	1269
-五味子	wu-wei-zi	收涩药	酸甘温·肺心肾	无毒		zhongyao-bu-yi-se.md	1308
-山茱萸	shan-zhu-yu	收涩药	酸涩微温·肝肾	无毒		zhongyao-bu-yi-se.md	1344
-乌梅	wu-mei	收涩药	酸涩平·肝脾肺大肠	无毒		zhongyao-bu-yi-se.md	1379
+五味子	wu-wei-zi	收涩药	酸甘温·肺心肾	无毒		zhongyao-shou-se.md	3
+山茱萸	shan-zhu-yu	收涩药	酸涩微温·肝肾	无毒		zhongyao-shou-se.md	39
+乌梅	wu-mei	收涩药	酸涩平·肝脾肺大肠	无毒		zhongyao-shou-se.md	74
+诃子	he-zi	收涩药	苦酸涩平·肺大肠	无毒		zhongyao-shou-se.md	108
+肉豆蔻	rou-dou-kou	收涩药	辛温·脾胃大肠	有小毒	▲	zhongyao-shou-se.md	143
+莲子	lian-zi	收涩药	甘涩平·脾肾心	无毒		zhongyao-shou-se.md	178
+芡实	qian-shi	收涩药	甘涩平·脾肾	无毒		zhongyao-shou-se.md	214
+石榴皮	shi-liu-pi	收涩药	酸涩温·大肠	有小毒	▲	zhongyao-shou-se.md	246
+覆盆子	fu-pen-zi	收涩药	甘酸微温·肝肾	无毒		zhongyao-shou-se.md	282
+金樱子	jin-ying-zi	收涩药	酸甘涩平·肾膀胱大肠	无毒		zhongyao-shou-se.md	318
