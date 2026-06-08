@@ -95,19 +95,30 @@
 益母草	yi-mu-cao	活血化瘀药	苦辛微寒·肝心包膀胱	无毒		zhongyao-qi-xue.md	747
 延胡索	yan-hu-suo	活血化瘀药	辛苦温·肝脾	无毒		zhongyao-qi-xue.md	784
 鸡血藤	ji-xue-teng	活血化瘀药	苦甘温·肝肾	无毒		zhongyao-qi-xue.md	821
-半夏	ban-xia	化痰止咳平喘药·温化寒痰	辛温·脾胃肺	有毒	◆	zhongyao-tan-shen-feng.md	5
-天南星	tian-nan-xing	化痰止咳平喘药·温化寒痰	苦辛温·肺肝脾	有毒	◆	zhongyao-tan-shen-feng.md	60
-桔梗	jie-geng	化痰止咳平喘药·清化热痰	苦辛平·肺	无毒		zhongyao-tan-shen-feng.md	115
+半夏	ban-xia	化痰止咳平喘药·温化寒痰	辛温·脾胃肺	有毒	◆	zhongyao-tan-shen-feng.md	11
+天南星	tian-nan-xing	化痰止咳平喘药·温化寒痰	苦辛温·肺肝脾	有毒	◆	zhongyao-tan-shen-feng.md	52
+白芥子	bai-jie-zi	化痰止咳平喘药·温化寒痰	辛温·肺胃	有小毒	▲	zhongyao-tan-shen-feng.md	88
+桔梗	jie-geng	化痰止咳平喘药·清化热痰	苦辛平·肺	无毒		zhongyao-tan-shen-feng.md	127
 瓜蒌	gua-lou	化痰止咳平喘药·清化热痰	甘微苦寒·肺胃大肠	无毒		zhongyao-tan-shen-feng.md	165
-川贝母	chuan-bei-mu	化痰止咳平喘药·清化热痰	苦甘微寒·肺心	无毒		zhongyao-tan-shen-feng.md	215
-浙贝母	zhe-bei-mu	化痰止咳平喘药·清化热痰	苦寒·肺心	无毒		zhongyao-tan-shen-feng.md	265
-酸枣仁	suan-zao-ren	安神药·养心安神	甘酸平·肝胆心	无毒		zhongyao-tan-shen-feng.md	315
-远志	yuan-zhi	安神药·养心安神	苦辛温·心肾肺	无毒		zhongyao-tan-shen-feng.md	365
-合欢皮	he-huan-pi	安神药·养心安神	甘平·心肝肺	无毒		zhongyao-tan-shen-feng.md	415
-天麻	tian-ma	平肝熄风药·平抑肝阳	甘平·肝	无毒		zhongyao-tan-shen-feng.md	460
-钩藤	gou-teng	平肝熄风药·息风止痉	甘凉·肝心包	无毒		zhongyao-tan-shen-feng.md	510
-石决明	shi-jue-ming	平肝熄风药·平抑肝阳	咸寒·肝	无毒		zhongyao-tan-shen-feng.md	560
-全蝎	quan-xie	平肝熄风药·息风止痉	辛平·肝	有毒	◆	zhongyao-tan-shen-feng.md	610
+川贝母	chuan-bei-mu	化痰止咳平喘药·清化热痰	苦甘微寒·肺心	无毒		zhongyao-tan-shen-feng.md	202
+浙贝母	zhe-bei-mu	化痰止咳平喘药·清化热痰	苦寒·肺心	无毒		zhongyao-tan-shen-feng.md	238
+竹茹	zhu-ru	化痰止咳平喘药·清化热痰	甘微寒·肺胃胆	无毒		zhongyao-tan-shen-feng.md	273
+海藻	hai-zao	化痰止咳平喘药·清化热痰	苦咸寒·肝肾胃	无毒		zhongyao-tan-shen-feng.md	309
+苦杏仁	ku-xing-ren	化痰止咳平喘药·止咳平喘	苦微温·肺大肠	有小毒	▲	zhongyao-tan-shen-feng.md	352
+紫苏子	zi-su-zi	化痰止咳平喘药·止咳平喘	辛温·肺大肠	无毒		zhongyao-tan-shen-feng.md	388
+百部	bai-bu	化痰止咳平喘药·止咳平喘	甘苦微温·肺	有小毒	▲	zhongyao-tan-shen-feng.md	424
+桑白皮	sang-bai-pi	化痰止咳平喘药·止咳平喘	甘寒·肺	无毒		zhongyao-tan-shen-feng.md	460
+紫菀	zi-wan	化痰止咳平喘药·止咳平喘	辛苦温·肺	无毒		zhongyao-tan-shen-feng.md	496
+款冬花	kuan-dong-hua	化痰止咳平喘药·止咳平喘	辛微苦温·肺	无毒		zhongyao-tan-shen-feng.md	532
+葶苈子	ting-li-zi	化痰止咳平喘药·止咳平喘	辛苦大寒·肺膀胱	无毒		zhongyao-tan-shen-feng.md	568
+枇杷叶	pi-pa-ye	化痰止咳平喘药·止咳平喘	苦微寒·肺胃	无毒		zhongyao-tan-shen-feng.md	604
+酸枣仁	suan-zao-ren	安神药·养心安神	甘酸平·肝胆心	无毒		zhongyao-tan-shen-feng.md	645
+远志	yuan-zhi	安神药·养心安神	苦辛温·心肾肺	无毒		zhongyao-tan-shen-feng.md	682
+合欢皮	he-huan-pi	安神药·养心安神	甘平·心肝肺	无毒		zhongyao-tan-shen-feng.md	719
+天麻	tian-ma	平肝熄风药·平抑肝阳	甘平·肝	无毒		zhongyao-tan-shen-feng.md	759
+钩藤	gou-teng	平肝熄风药·息风止痉	甘凉·肝心包	无毒		zhongyao-tan-shen-feng.md	798
+石决明	shi-jue-ming	平肝熄风药·平抑肝阳	咸寒·肝	无毒		zhongyao-tan-shen-feng.md	835
+全蝎	quan-xie	平肝熄风药·息风止痉	辛平·肝	有毒	◆	zhongyao-tan-shen-feng.md	871
 人参	ren-shen	补虚药·补气	甘微苦微温·脾肺心肾	无毒		zhongyao-bu-yi-se.md	11
 党参	dang-shen	补虚药·补气	甘平·脾肺	无毒		zhongyao-bu-yi-se.md	50
 黄芪	huang-qi	补虚药·补气	甘微温·脾肺	无毒		zhongyao-bu-yi-se.md	84
