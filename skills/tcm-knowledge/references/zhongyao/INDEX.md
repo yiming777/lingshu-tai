@@ -236,3 +236,9 @@
 石榴皮	shi-liu-pi	收涩药	酸涩温·大肠	有小毒	▲	zhongyao-shou-se.md	246
 覆盆子	fu-pen-zi	收涩药	甘酸微温·肝肾	无毒		zhongyao-shou-se.md	282
 金樱子	jin-ying-zi	收涩药	酸甘涩平·肾膀胱大肠	无毒		zhongyao-shou-se.md	318
+
+麝香	she-xiang	开窍药	辛温·心脾	无毒		zhongyao-kai-qiao.md	8
+冰片	bing-pian	开窍药	辛苦微寒·心脾肺	无毒		zhongyao-kai-qiao.md	45
+石菖蒲	shi-chang-pu	开窍药	辛苦温·心胃	无毒		zhongyao-kai-qiao.md	82
+苏合香	su-he-xiang	开窍药	辛温·心脾	无毒		zhongyao-kai-qiao.md	119
+
