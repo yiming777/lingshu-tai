@@ -23,7 +23,12 @@ metadata:
 | 查询类型 | 打开文件 | 何时用 |
 |---------|---------|--------|
 | 方剂组成、功效、剂量、煎服法 | `references/fangji-db.md` | 辨证完成，需要开方时 |
-| 单味药性味归经、功效、禁忌 | `references/zhongyao-db.md` | 拆方、加减、药性分析时 |
+| 中药性味归经、功效、禁忌（查INDEX） | `references/zhongyao/INDEX.md` | 先查索引定位，再按文件/行号取具体药 |
+| 解表/清热/泻下药全文 | `references/zhongyao/zhongyao-biao-li-re.md` | 拆方、加减、药性分析（35味） |
+| 祛湿/温里药全文 | `references/zhongyao/zhongyao-shi-wen.md` | 拆方、加减、药性分析（19味） |
+| 理气/消食/止血/活血药全文 | `references/zhongyao/zhongyao-qi-xue.md` | 拆方、加减、药性分析（22味） |
+| 化痰/安神/平肝熄风药全文 | `references/zhongyao/zhongyao-tan-shen-feng.md` | 拆方、加减、药性分析（13味） |
+| 补虚/收涩药全文 | `references/zhongyao/zhongyao-bu-yi-se.md` | 拆方、加减、药性分析（22味） |
 | 经典条文引用 | `references/jingdian-tiaowen.md` | 需要引用出处佐证辨证时 |
 | 证型标准定义 | `references/zhenghou-db.md` | 辨证时需要确认证型诊断标准 |
 | 安全警告 | `references/safety.md` | 开出高风险方药时 |
