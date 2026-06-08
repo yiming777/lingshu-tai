@@ -78,6 +78,16 @@
 车前子	che-qian-zi	利水渗湿药	甘微寒·肝肾肺小肠	无毒		zhongyao-shi-wen.md	813
 滑石	hua-shi	利水渗湿药	甘淡寒·膀胱肺胃	无毒		zhongyao-shi-wen.md	850
 茵陈	yin-chen	利水渗湿药	苦辛微寒·脾胃肝胆	无毒		zhongyao-shi-wen.md	886
+猪苓	zhu-ling	利水渗湿药	甘淡平·肾膀胱	无毒		zhongyao-shi-wen.md	923
+金钱草	jin-qian-cao	利水渗湿药	甘咸微寒·肝胆肾膀胱	无毒		zhongyao-shi-wen.md	959
+海金沙	hai-jin-sha	利水渗湿药	甘咸寒·膀胱小肠	无毒		zhongyao-shi-wen.md	996
+石韦	shi-wei	利水渗湿药	甘苦微寒·肺膀胱	无毒		zhongyao-shi-wen.md	1032
+萹蓄	bian-xu	利水渗湿药	苦微寒·膀胱	无毒		zhongyao-shi-wen.md	1069
+瞿麦	qu-mai	利水渗湿药	苦寒·心小肠	无毒		zhongyao-shi-wen.md	1105
+虎杖	hu-zhang	利水渗湿药	微苦微寒·肝胆肺	无毒		zhongyao-shi-wen.md	1141
+赤小豆	chi-xiao-dou	利水渗湿药	甘酸平·心小肠	无毒		zhongyao-shi-wen.md	1179
+萆薢	bi-xie	利水渗湿药	苦平·肾胃	无毒		zhongyao-shi-wen.md	1216
+地肤子	di-fu-zi	利水渗湿药	辛苦寒·肾膀胱	无毒		zhongyao-shi-wen.md	1252
 附子	fu-zi	温里药	辛甘大热·心肾脾	有毒	◆	zhongyao-shi-wen.md	925
 干姜	gan-jiang	温里药	辛热·脾胃肾心肺	无毒		zhongyao-shi-wen.md	967
 肉桂	rou-gui	温里药	辛甘大热·肾脾心肝	无毒		zhongyao-shi-wen.md	1005
