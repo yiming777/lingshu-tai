@@ -53,25 +53,35 @@
 紫草	zi-cao	清热药·清热凉血	甘咸寒·心肝	无毒		zhongyao-qing-re.md	1115
 青蒿	qing-hao	清热药·清虚热	苦辛寒·肝胆	无毒		zhongyao-qing-re.md	1154
 地骨皮	di-gu-pi	清热药·清虚热	甘寒·肺肝肾	无毒		zhongyao-qing-re.md	1191
-独活	du-huo	祛风湿药	辛苦微温·肾膀胱	无毒		zhongyao-shi-wen.md	5
-秦艽	qin-jiao	祛风湿药	辛苦平·胃肝胆	无毒		zhongyao-shi-wen.md	50
-威灵仙	wei-ling-xian	祛风湿药	辛咸温·膀胱	无毒		zhongyao-shi-wen.md	100
-防己	fang-ji	祛风湿药	苦寒·膀胱肺	无毒		zhongyao-shi-wen.md	145
-桑寄生	sang-ji-sheng	祛风湿药	苦甘平·肝肾	无毒		zhongyao-shi-wen.md	190
-藿香	huo-xiang	化湿药	辛微温·脾胃肺	无毒		zhongyao-shi-wen.md	235
-苍术	cang-zhu	化湿药	辛苦温·脾胃肝	无毒		zhongyao-shi-wen.md	280
-厚朴	hou-pu	化湿药	苦辛温·脾胃肺大肠	无毒		zhongyao-shi-wen.md	330
-砂仁	sha-ren	化湿药	辛温·脾胃肾	无毒		zhongyao-shi-wen.md	380
-茯苓	fu-ling	利水渗湿药	甘淡平·心肺脾肾	无毒		zhongyao-shi-wen.md	425
-泽泻	ze-xie	利水渗湿药	甘寒·肾膀胱	无毒		zhongyao-shi-wen.md	475
-薏苡仁	yi-yi-ren	利水渗湿药	甘淡凉·脾胃肺	无毒		zhongyao-shi-wen.md	520
-车前子	che-qian-zi	利水渗湿药	甘寒·肝肾肺小肠	无毒		zhongyao-shi-wen.md	570
-滑石	hua-shi	利水渗湿药	甘淡寒·膀胱肺胃	无毒		zhongyao-shi-wen.md	620
-茵陈	yin-chen	利水渗湿药	苦辛微寒·脾胃肝胆	无毒		zhongyao-shi-wen.md	670
-附子	fu-zi	温里药	辛甘大热·心肾脾	有毒	★	zhongyao-shi-wen.md	715
-干姜	gan-jiang	温里药	辛热·脾胃肾心肺	无毒		zhongyao-shi-wen.md	770
-肉桂	rou-gui	温里药	辛甘大热·肾脾心肝	无毒		zhongyao-shi-wen.md	820
-吴茱萸	wu-zhu-yu	温里药	辛苦热·肝脾胃肾	有小毒	▲	zhongyao-shi-wen.md	875
+独活	du-huo	祛风湿药	辛苦微温·肾膀胱	无毒		zhongyao-shi-wen.md	9
+秦艽	qin-jiao	祛风湿药	辛苦平·肝胆胃	无毒		zhongyao-shi-wen.md	44
+威灵仙	wei-ling-xian	祛风湿药	辛咸温·膀胱	无毒		zhongyao-shi-wen.md	80
+防己	fang-ji	祛风湿药	苦寒·膀胱肺	无毒		zhongyao-shi-wen.md	115
+桑寄生	sang-ji-sheng	祛风湿药	苦甘平·肝肾	无毒		zhongyao-shi-wen.md	151
+五加皮	wu-jia-pi	祛风湿药	辛苦温·肝肾	无毒		zhongyao-shi-wen.md	188
+木瓜	mu-gua	祛风湿药	酸温·肝脾	无毒		zhongyao-shi-wen.md	224
+桑枝	sang-zhi	祛风湿药	微苦平·肝	无毒		zhongyao-shi-wen.md	260
+雷公藤	lei-gong-teng	祛风湿药	辛苦寒·肝肾	有大毒	★	zhongyao-shi-wen.md	296
+豨莶草	xi-xian-cao	祛风湿药	辛苦寒·肝肾	无毒		zhongyao-shi-wen.md	333
+络石藤	luo-shi-teng	祛风湿药	苦微寒·心肝肾	无毒		zhongyao-shi-wen.md	369
+伸筋草	shen-jin-cao	祛风湿药	微苦辛温·肝脾肾	无毒		zhongyao-shi-wen.md	405
+路路通	lu-lu-tong	祛风湿药	苦平·肝肾	无毒		zhongyao-shi-wen.md	441
+乌梢蛇	wu-shao-she	祛风湿药	甘平·肝	无毒		zhongyao-shi-wen.md	477
+穿山龙	chuan-shan-long	祛风湿药	甘苦温·肝肺	无毒		zhongyao-shi-wen.md	513
+藿香	huo-xiang	化湿药	辛微温·脾胃肺	无毒		zhongyao-shi-wen.md	552
+苍术	cang-zhu	化湿药	辛苦温·脾胃肝	无毒		zhongyao-shi-wen.md	588
+厚朴	hou-po	化湿药	苦辛温·脾胃肺大肠	无毒		zhongyao-shi-wen.md	624
+砂仁	sha-ren	化湿药	辛温·脾胃肾	无毒		zhongyao-shi-wen.md	662
+茯苓	fu-ling	利水渗湿药	甘淡平·心脾肾	无毒		zhongyao-shi-wen.md	700
+泽泻	ze-xie	利水渗湿药	甘寒·肾膀胱	无毒		zhongyao-shi-wen.md	738
+薏苡仁	yi-yi-ren	利水渗湿药	甘淡凉·脾胃肺	无毒		zhongyao-shi-wen.md	775
+车前子	che-qian-zi	利水渗湿药	甘微寒·肝肾肺小肠	无毒		zhongyao-shi-wen.md	813
+滑石	hua-shi	利水渗湿药	甘淡寒·膀胱肺胃	无毒		zhongyao-shi-wen.md	850
+茵陈	yin-chen	利水渗湿药	苦辛微寒·脾胃肝胆	无毒		zhongyao-shi-wen.md	886
+附子	fu-zi	温里药	辛甘大热·心肾脾	有毒	◆	zhongyao-shi-wen.md	925
+干姜	gan-jiang	温里药	辛热·脾胃肾心肺	无毒		zhongyao-shi-wen.md	967
+肉桂	rou-gui	温里药	辛甘大热·肾脾心肝	无毒		zhongyao-shi-wen.md	1005
+吴茱萸	wu-zhu-yu	温里药	辛苦热·肝脾胃肾	有小毒	▲	zhongyao-shi-wen.md	1043
 陈皮	chen-pi	理气药	辛苦温·脾肺	无毒		zhongyao-qi-xue.md	5
 枳实	zhi-shi	理气药	苦辛酸微寒·脾胃	无毒		zhongyao-qi-xue.md	55
 木香	mu-xiang	理气药	辛苦温·脾胃大肠三焦胆	无毒		zhongyao-qi-xue.md	105
