@@ -12,6 +12,7 @@ FILES = [
     "zhongyao-shi-wen.md",
     "zhongyao-qi-xue.md",
     "zhongyao-huo-xue.md",
+    "zhongyao-wen-hua.md",
     "zhongyao-tan-shen-feng.md",
     "zhongyao-bu-yi-se.md",
 ]
