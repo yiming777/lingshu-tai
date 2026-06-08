@@ -26,7 +26,8 @@ metadata:
 | 中药性味归经、功效、禁忌（查INDEX） | `references/zhongyao/INDEX.md` | 先查索引定位，再按文件/行号取具体药 |
 | 解表/泻下药全文 | `references/zhongyao/zhongyao-biao-li-re.md` | 拆方、加减、药性分析（27味） |
 | 清热药全文 | `references/zhongyao/zhongyao-qing-re.md` | 拆方、加减、药性分析（33味） |
-| 祛湿/温里药全文 | `references/zhongyao/zhongyao-shi-wen.md` | 拆方、加减、药性分析（39味） |
+| 祛风湿/利水渗湿药全文 | `references/zhongyao/zhongyao-shi-wen.md` | 拆方、加减、药性分析（31味） |
+| 化湿/温里药全文 | `references/zhongyao/zhongyao-wen-hua.md` | 拆方、加减、药性分析（12味） |
 | 理气/消食药全文 | `references/zhongyao/zhongyao-qi-xue.md` | 拆方、加减、药性分析（22味） |
 | 止血/活血化瘀药全文 | `references/zhongyao/zhongyao-huo-xue.md` | 拆方、加减、药性分析（23味） |
 | 化痰/安神/平肝熄风药全文 | `references/zhongyao/zhongyao-tan-shen-feng.md` | 拆方、加减、药性分析（24味） |
