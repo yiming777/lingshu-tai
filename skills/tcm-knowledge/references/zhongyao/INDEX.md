@@ -3,23 +3,33 @@
 > 格式：药名 TAB 拼音 TAB 分类 TAB 性味归经 TAB 毒性 TAB 安全分级 TAB 文件 TAB 起始行号
 > 用法：grep "药名" INDEX.md → read(文件, offset=行号, limit=40)
 
-麻黄	ma-huang	解表药·辛温解表	辛微苦温·肺膀胱	有小毒	◆	zhongyao-biao-li-re.md	5
+麻黄	ma-huang	解表药·辛温解表	辛微苦温·肺膀胱	有小毒	◆	zhongyao-biao-li-re.md	12
 桂枝	gui-zhi	解表药·辛温解表	辛甘温·心肺膀胱	无毒		zhongyao-biao-li-re.md	55
-荆芥	jing-jie	解表药·辛温解表	辛微温·肺肝	无毒		zhongyao-biao-li-re.md	105
-防风	fang-feng	解表药·辛温解表	辛甘微温·膀胱肝脾	无毒		zhongyao-biao-li-re.md	150
-细辛	xi-xin	解表药·辛温解表	辛温·心肺肾	有小毒	▲	zhongyao-biao-li-re.md	195
-白芷	bai-zhi	解表药·辛温解表	辛温·肺胃大肠	无毒		zhongyao-biao-li-re.md	245
-生姜	sheng-jiang	解表药·辛温解表	辛微温·肺脾胃	无毒		zhongyao-biao-li-re.md	290
-薄荷	bo-he	解表药·辛凉解表	辛凉·肺肝	无毒		zhongyao-biao-li-re.md	335
-柴胡	chai-hu	解表药·辛凉解表	苦辛微寒·肝胆肺	无毒		zhongyao-biao-li-re.md	380
-葛根	ge-gen	解表药·辛凉解表	甘辛凉·脾胃肺	无毒		zhongyao-biao-li-re.md	430
-桑叶	sang-ye	解表药·辛凉解表	甘苦寒·肺肝	无毒		zhongyao-biao-li-re.md	480
-菊花	ju-hua	解表药·辛凉解表	甘苦微寒·肺肝	无毒		zhongyao-biao-li-re.md	530
-升麻	sheng-ma	解表药·辛凉解表	辛微甘微寒·肺脾胃大肠	无毒		zhongyao-biao-li-re.md	580
-蝉蜕	chan-tui	解表药·辛凉解表	甘寒·肺肝	无毒		zhongyao-biao-li-re.md	625
-大黄	da-huang	泻下药·攻下药	苦寒·脾胃大肠肝心包	无毒		zhongyao-biao-li-re.md	530
-芒硝	mang-xiao	泻下药·攻下药	咸苦寒·胃大肠	无毒		zhongyao-biao-li-re.md	580
-火麻仁	huo-ma-ren	泻下药·润下药	甘平·脾胃大肠	无毒		zhongyao-biao-li-re.md	625
+荆芥	jing-jie	解表药·辛温解表	辛微温·肺肝	无毒		zhongyao-biao-li-re.md	93
+防风	fang-feng	解表药·辛温解表	辛甘微温·膀胱肝脾	无毒		zhongyao-biao-li-re.md	129
+细辛	xi-xin	解表药·辛温解表	辛温·心肺肾	有小毒	▲	zhongyao-biao-li-re.md	165
+白芷	bai-zhi	解表药·辛温解表	辛温·肺胃大肠	无毒		zhongyao-biao-li-re.md	201
+生姜	sheng-jiang	解表药·辛温解表	辛微温·肺脾胃	无毒		zhongyao-biao-li-re.md	236
+羌活	qiang-huo	解表药·辛温解表	辛苦温·肾膀胱	无毒		zhongyao-biao-li-re.md	272
+紫苏叶	zi-su-ye	解表药·辛温解表	辛温·肺脾	无毒		zhongyao-biao-li-re.md	308
+藁本	gao-ben	解表药·辛温解表	辛温·膀胱	无毒		zhongyao-biao-li-re.md	344
+辛夷	xin-yi	解表药·辛温解表	辛温·肺胃	无毒		zhongyao-biao-li-re.md	380
+苍耳子	cang-er-zi	解表药·辛温解表	辛苦温·肺	有小毒	▲	zhongyao-biao-li-re.md	416
+香薷	xiang-ru	解表药·辛温解表	辛微温·肺胃	无毒		zhongyao-biao-li-re.md	452
+薄荷	bo-he	解表药·辛凉解表	辛凉·肺肝	无毒		zhongyao-biao-li-re.md	491
+柴胡	chai-hu	解表药·辛凉解表	苦辛微寒·肝胆肺	无毒		zhongyao-biao-li-re.md	526
+葛根	ge-gen	解表药·辛凉解表	甘辛凉·脾胃肺	无毒		zhongyao-biao-li-re.md	565
+桑叶	sang-ye	解表药·辛凉解表	甘苦寒·肺肝	无毒		zhongyao-biao-li-re.md	602
+菊花	ju-hua	解表药·辛凉解表	甘苦微寒·肺肝	无毒		zhongyao-biao-li-re.md	639
+升麻	sheng-ma	解表药·辛凉解表	辛微甘微寒·肺脾胃大肠	无毒		zhongyao-biao-li-re.md	675
+蝉蜕	chan-tui	解表药·辛凉解表	甘寒·肺肝	无毒		zhongyao-biao-li-re.md	711
+牛蒡子	niu-bang-zi	解表药·辛凉解表	辛苦寒·肺胃	无毒		zhongyao-biao-li-re.md	747
+蔓荆子	man-jing-zi	解表药·辛凉解表	辛苦微寒·膀胱肝胃	无毒		zhongyao-biao-li-re.md	783
+淡豆豉	dan-dou-chi	解表药·辛凉解表	苦辛凉·肺胃	无毒		zhongyao-biao-li-re.md	819
+浮萍	fu-ping	解表药·辛凉解表	辛寒·肺膀胱	无毒		zhongyao-biao-li-re.md	855
+大黄	da-huang	泻下药·攻下药	苦寒·脾胃大肠肝心包	无毒		zhongyao-biao-li-re.md	894
+芒硝	mang-xiao	泻下药·攻下药	咸苦寒·胃大肠	无毒		zhongyao-biao-li-re.md	933
+火麻仁	huo-ma-ren	泻下药·润下药	甘平·脾胃大肠	无毒		zhongyao-biao-li-re.md	968
 石膏	shi-gao	清热药·清热泻火	甘辛大寒·肺胃	无毒		zhongyao-qing-re.md	13
 知母	zhi-mu	清热药·清热泻火	苦甘寒·肺胃肾	无毒		zhongyao-qing-re.md	49
 栀子	zhi-zi	清热药·清热泻火	苦寒·心肺三焦	无毒		zhongyao-qing-re.md	86
