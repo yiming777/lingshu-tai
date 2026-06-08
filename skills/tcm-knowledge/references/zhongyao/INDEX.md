@@ -17,35 +17,42 @@
 菊花	ju-hua	解表药·辛凉解表	甘苦微寒·肺肝	无毒		zhongyao-biao-li-re.md	530
 升麻	sheng-ma	解表药·辛凉解表	辛微甘微寒·肺脾胃大肠	无毒		zhongyao-biao-li-re.md	580
 蝉蜕	chan-tui	解表药·辛凉解表	甘寒·肺肝	无毒		zhongyao-biao-li-re.md	625
-石膏	shi-gao	清热药·清热泻火	甘辛大寒·肺胃	无毒		zhongyao-biao-li-re.md	670
-知母	zhi-mu	清热药·清热泻火	苦甘寒·肺胃肾	无毒		zhongyao-biao-li-re.md	720
-栀子	zhi-zi	清热药·清热泻火	苦寒·心肺三焦	无毒		zhongyao-biao-li-re.md	770
-天花粉	tian-hua-fen	清热药·清热泻火	甘微苦微寒·肺胃	无毒		zhongyao-biao-li-re.md	820
-夏枯草	xia-ku-cao	清热药·清热泻火	辛苦寒·肝胆	无毒		zhongyao-biao-li-re.md	870
-黄芩	huang-qin	清热药·清热燥湿	苦寒·肺胆脾大肠小肠	无毒		zhongyao-biao-li-re.md	920
-黄连	huang-lian	清热药·清热燥湿	苦寒·心脾胃肝胆大肠	无毒		zhongyao-biao-li-re.md	975
-黄柏	huang-bai	清热药·清热燥湿	苦寒·肾膀胱	无毒		zhongyao-biao-li-re.md	1030
-龙胆草	long-dan-cao	清热药·清热燥湿	苦寒·肝胆	无毒		zhongyao-biao-li-re.md	831
-苦参	ku-shen	清热药·清热燥湿	苦寒·心肝胃大肠膀胱	有小毒▲	小毒	zhongyao-biao-li-re.md	867
-金银花	jin-yin-hua	清热药·清热解毒	甘寒·肺心胃	无毒		zhongyao-biao-li-re.md	912
-连翘	lian-qiao	清热药·清热解毒	苦微寒·肺心小肠	无毒		zhongyao-biao-li-re.md	952
-蒲公英	pu-gong-ying	清热药·清热解毒	苦甘寒·肝胃	无毒		zhongyao-biao-li-re.md	990
-紫花地丁	zi-hua-di-ding	清热药·清热解毒	苦辛寒·心肝	无毒		zhongyao-biao-li-re.md	1027
-板蓝根	ban-lan-gen	清热药·清热解毒	苦寒·心胃	无毒		zhongyao-biao-li-re.md	1052
-鱼腥草	yu-xing-cao	清热药·清热解毒	辛微寒·肺	无毒		zhongyao-biao-li-re.md	1089
-白头翁	bai-tou-weng	清热药·清热解毒	苦寒·大肠	无毒		zhongyao-biao-li-re.md	1125
-白花蛇舌草	bai-hua-she-she-cao	清热药·清热解毒	甘淡凉·胃大小肠	无毒		zhongyao-biao-li-re.md	1161
-射干	she-gan	清热药·清热解毒	苦寒·肺	无毒		zhongyao-biao-li-re.md	1197
-生地黄	sheng-di-huang	清热药·清热凉血	甘寒·心肝肾	无毒		zhongyao-biao-li-re.md	1234
-玄参	xuan-shen	清热药·清热凉血	甘苦咸微寒·肺胃肾	无毒		zhongyao-biao-li-re.md	1285
-牡丹皮	mu-dan-pi	清热药·清热凉血	苦辛微寒·心肝肾	无毒		zhongyao-biao-li-re.md	1335
-赤芍	chi-shao	清热药·清热凉血	苦微寒·肝	无毒		zhongyao-biao-li-re.md	1385
-水牛角	shui-niu-jiao	清热药·清热凉血	苦寒·心肝	无毒		zhongyao-biao-li-re.md	1435
-青蒿	qing-hao	清热药·清虚热	苦辛寒·肝胆	无毒		zhongyao-biao-li-re.md	1467
-地骨皮	di-gu-pi	清热药·清虚热	甘寒·肺肝肾	无毒		zhongyao-biao-li-re.md	1504
-大黄	da-huang	泻下药·攻下药	苦寒·脾胃大肠肝心包	无毒		zhongyao-biao-li-re.md	1544
-芒硝	mang-xiao	泻下药·攻下药	咸苦寒·胃大肠	无毒		zhongyao-biao-li-re.md	1615
-火麻仁	huo-ma-ren	泻下药·润下药	甘平·脾胃大肠	无毒		zhongyao-biao-li-re.md	1665
+大黄	da-huang	泻下药·攻下药	苦寒·脾胃大肠肝心包	无毒		zhongyao-biao-li-re.md	530
+芒硝	mang-xiao	泻下药·攻下药	咸苦寒·胃大肠	无毒		zhongyao-biao-li-re.md	580
+火麻仁	huo-ma-ren	泻下药·润下药	甘平·脾胃大肠	无毒		zhongyao-biao-li-re.md	625
+石膏	shi-gao	清热药·清热泻火	甘辛大寒·肺胃	无毒		zhongyao-qing-re.md	13
+知母	zhi-mu	清热药·清热泻火	苦甘寒·肺胃肾	无毒		zhongyao-qing-re.md	49
+栀子	zhi-zi	清热药·清热泻火	苦寒·心肺三焦	无毒		zhongyao-qing-re.md	86
+天花粉	tian-hua-fen	清热药·清热泻火	甘微苦微寒·肺胃	无毒		zhongyao-qing-re.md	123
+夏枯草	xia-ku-cao	清热药·清热泻火	辛苦寒·肝胆	无毒		zhongyao-qing-re.md	159
+黄芩	huang-qin	清热药·清热燥湿	苦寒·肺胆脾大肠小肠	无毒		zhongyao-qing-re.md	198
+黄连	huang-lian	清热药·清热燥湿	苦寒·心脾胃肝胆大肠	无毒		zhongyao-qing-re.md	236
+黄柏	huang-bai	清热药·清热燥湿	苦寒·肾膀胱	无毒		zhongyao-qing-re.md	274
+龙胆草	long-dan-cao	清热药·清热燥湿	苦寒·肝胆	无毒		zhongyao-qing-re.md	310
+苦参	ku-shen	清热药·清热燥湿	苦寒·心肝胃大肠膀胱	有小毒▲	小毒	zhongyao-qing-re.md	346
+白鲜皮	bai-xian-pi	清热药·清热燥湿	苦寒·脾胃膀胱	无毒		zhongyao-qing-re.md	383
+秦皮	qin-pi	清热药·清热燥湿	苦涩寒·肝胆大肠	无毒		zhongyao-qing-re.md	419
+金银花	jin-yin-hua	清热药·清热解毒	甘寒·肺心胃	无毒		zhongyao-qing-re.md	458
+连翘	lian-qiao	清热药·清热解毒	苦微寒·肺心小肠	无毒		zhongyao-qing-re.md	495
+蒲公英	pu-gong-ying	清热药·清热解毒	苦甘寒·肝胃	无毒		zhongyao-qing-re.md	532
+紫花地丁	zi-hua-di-ding	清热药·清热解毒	苦辛寒·心肝	无毒		zhongyao-qing-re.md	569
+板蓝根	ban-lan-gen	清热药·清热解毒	苦寒·心胃	无毒		zhongyao-qing-re.md	604
+鱼腥草	yu-xing-cao	清热药·清热解毒	辛微寒·肺	无毒		zhongyao-qing-re.md	641
+白头翁	bai-tou-weng	清热药·清热解毒	苦寒·大肠	无毒		zhongyao-qing-re.md	677
+白花蛇舌草	bai-hua-she-she-cao	清热药·清热解毒	甘淡凉·胃大小肠	无毒		zhongyao-qing-re.md	713
+射干	she-gan	清热药·清热解毒	苦寒·肺	无毒		zhongyao-qing-re.md	749
+大青叶	da-qing-ye	清热药·清热解毒	苦寒·心胃	无毒		zhongyao-qing-re.md	785
+败酱草	bai-jiang-cao	清热药·清热解毒	辛苦微寒·肝胃大肠	无毒		zhongyao-qing-re.md	821
+山豆根	shan-dou-gen	清热药·清热解毒	苦寒·肺胃	有毒◆	有毒	zhongyao-qing-re.md	857
+马齿苋	ma-chi-xian	清热药·清热解毒	酸寒·肝大肠	无毒		zhongyao-qing-re.md	894
+生地黄	sheng-di-huang	清热药·清热凉血	甘寒·心肝肾	无毒		zhongyao-qing-re.md	933
+玄参	xuan-shen	清热药·清热凉血	甘苦咸微寒·肺胃肾	无毒		zhongyao-qing-re.md	970
+牡丹皮	mu-dan-pi	清热药·清热凉血	苦辛微寒·心肝肾	无毒		zhongyao-qing-re.md	1007
+赤芍	chi-shao	清热药·清热凉血	苦微寒·肝	无毒		zhongyao-qing-re.md	1044
+水牛角	shui-niu-jiao	清热药·清热凉血	苦寒·心肝	无毒		zhongyao-qing-re.md	1080
+紫草	zi-cao	清热药·清热凉血	甘咸寒·心肝	无毒		zhongyao-qing-re.md	1115
+青蒿	qing-hao	清热药·清虚热	苦辛寒·肝胆	无毒		zhongyao-qing-re.md	1154
+地骨皮	di-gu-pi	清热药·清虚热	甘寒·肺肝肾	无毒		zhongyao-qing-re.md	1191
 独活	du-huo	祛风湿药	辛苦微温·肾膀胱	无毒		zhongyao-shi-wen.md	5
 秦艽	qin-jiao	祛风湿药	辛苦平·胃肝胆	无毒		zhongyao-shi-wen.md	50
 威灵仙	wei-ling-xian	祛风湿药	辛咸温·膀胱	无毒		zhongyao-shi-wen.md	100
@@ -79,14 +86,15 @@
 蒲黄	pu-huang	止血药	甘平·肝心包	无毒		zhongyao-qi-xue.md	515
 白及	bai-ji	止血药	苦甘涩微寒·肺胃肝	无毒		zhongyao-qi-xue.md	560
 艾叶	ai-ye	止血药	辛苦温·肝脾肾	有小毒	▲	zhongyao-qi-xue.md	610
-川芎	chuan-xiong	活血化瘀药	辛温·肝胆心包	无毒		zhongyao-qi-xue.md	660
-丹参	dan-shen	活血化瘀药	苦微寒·心肝	无毒		zhongyao-qi-xue.md	710
-桃仁	tao-ren	活血化瘀药	苦甘平·心肝大肠	有小毒	▲	zhongyao-qi-xue.md	760
-红花	hong-hua	活血化瘀药	辛温·心肝	无毒		zhongyao-qi-xue.md	815
-牛膝	niu-xi	活血化瘀药	苦甘酸平·肝肾	无毒		zhongyao-qi-xue.md	865
-郁金	yu-jin	活血化瘀药	辛苦寒·肝心肺	无毒		zhongyao-qi-xue.md	915
-益母草	yi-mu-cao	活血化瘀药	苦辛微寒·肝心包膀胱	无毒		zhongyao-qi-xue.md	965
-延胡索	yan-hu-suo	活血化瘀药	辛苦温·肝脾	无毒		zhongyao-qi-xue.md	1015
+川芎	chuan-xiong	活血化瘀药	辛温·肝胆心包	无毒		zhongyao-qi-xue.md	522
+丹参	dan-shen	活血化瘀药	苦微寒·心肝	无毒		zhongyao-qi-xue.md	560
+桃仁	tao-ren	活血化瘀药	苦甘平·心肝大肠	有小毒	▲	zhongyao-qi-xue.md	598
+红花	hong-hua	活血化瘀药	辛温·心肝	无毒		zhongyao-qi-xue.md	636
+牛膝	niu-xi	活血化瘀药	苦甘酸平·肝肾	无毒		zhongyao-qi-xue.md	673
+郁金	yu-jin	活血化瘀药	辛苦寒·肝心肺	无毒		zhongyao-qi-xue.md	711
+益母草	yi-mu-cao	活血化瘀药	苦辛微寒·肝心包膀胱	无毒		zhongyao-qi-xue.md	747
+延胡索	yan-hu-suo	活血化瘀药	辛苦温·肝脾	无毒		zhongyao-qi-xue.md	784
+鸡血藤	ji-xue-teng	活血化瘀药	苦甘温·肝肾	无毒		zhongyao-qi-xue.md	821
 半夏	ban-xia	化痰止咳平喘药·温化寒痰	辛温·脾胃肺	有毒	◆	zhongyao-tan-shen-feng.md	5
 天南星	tian-nan-xing	化痰止咳平喘药·温化寒痰	苦辛温·肺肝脾	有毒	◆	zhongyao-tan-shen-feng.md	60
 桔梗	jie-geng	化痰止咳平喘药·清化热痰	苦辛平·肺	无毒		zhongyao-tan-shen-feng.md	115
