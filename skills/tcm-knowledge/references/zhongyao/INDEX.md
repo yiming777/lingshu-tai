@@ -99,14 +99,18 @@
 苍术	cang-zhu	化湿药	辛苦温·脾胃肝	无毒		zhongyao-wen-hua.md	53
 厚朴	hou-po	化湿药	苦辛温·脾胃肺大肠	无毒		zhongyao-wen-hua.md	89
 砂仁	sha-ren	化湿药	辛温·脾胃肾	无毒		zhongyao-wen-hua.md	127
-附子	fu-zi	温里药	辛甘大热·心肾脾	有大毒	★	zhongyao-wen-hua.md	167
-干姜	gan-jiang	温里药	辛热·脾胃肾心肺	无毒		zhongyao-wen-hua.md	209
-肉桂	rou-gui	温里药	辛甘大热·肾脾心肝	无毒		zhongyao-wen-hua.md	247
-吴茱萸	wu-zhu-yu	温里药	辛苦热·肝脾胃肾	有小毒	▲	zhongyao-wen-hua.md	285
-花椒	hua-jiao	温里药	辛温·脾胃肾	有小毒	▲	zhongyao-wen-hua.md	322
-丁香	ding-xiang	温里药	辛温·脾胃肺肾	无毒		zhongyao-wen-hua.md	359
-小茴香	xiao-hui-xiang	温里药	辛温·肝肾脾胃	无毒		zhongyao-wen-hua.md	396
-高良姜	gao-liang-jiang	温里药	辛热·脾胃	无毒		zhongyao-wen-hua.md	432
+佩兰	pei-lan	化湿药	辛平·脾胃肺	无毒		zhongyao-wen-hua.md	167
+白豆蔻	bai-dou-kou	化湿药	辛温·脾胃肺	无毒		zhongyao-wen-hua.md	203
+草豆蔻	cao-dou-kou	化湿药	辛温·脾胃	无毒		zhongyao-wen-hua.md	239
+草果	cao-guo	化湿药	辛温·脾胃	无毒		zhongyao-wen-hua.md	275
+附子	fu-zi	温里药	辛甘大热·心肾脾	有大毒	★	zhongyao-wen-hua.md	312
+干姜	gan-jiang	温里药	辛热·脾胃肾心肺	无毒		zhongyao-wen-hua.md	354
+肉桂	rou-gui	温里药	辛甘大热·肾脾心肝	无毒		zhongyao-wen-hua.md	392
+吴茱萸	wu-zhu-yu	温里药	辛苦热·肝脾胃肾	有小毒	▲	zhongyao-wen-hua.md	430
+花椒	hua-jiao	温里药	辛温·脾胃肾	有小毒	▲	zhongyao-wen-hua.md	467
+丁香	ding-xiang	温里药	辛温·脾胃肺肾	无毒		zhongyao-wen-hua.md	504
+小茴香	xiao-hui-xiang	温里药	辛温·肝肾脾胃	无毒		zhongyao-wen-hua.md	541
+高良姜	gao-liang-jiang	温里药	辛热·脾胃	无毒		zhongyao-wen-hua.md	577
 陈皮	chen-pi	理气药	辛苦温·脾胃肺	无毒		zhongyao-qi-xue.md	10
 枳实	zhi-shi	理气药	苦辛酸微寒·脾胃大肠	无毒		zhongyao-qi-xue.md	47
 木香	mu-xiang	理气药	辛苦温·脾胃大肠胆	无毒		zhongyao-qi-xue.md	83
