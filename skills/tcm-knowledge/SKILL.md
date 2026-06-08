@@ -40,6 +40,7 @@ metadata:
 | 倪海厦临床案例 | `references/external/nihaisha/clinical-cases-part1.md` 或 `part2.md` | 辨证/方剂时需参考倪海厦医案佐证 |
 | 症状→六经路由 | `references/external/nihaisha/symptom-index.md` | 症状模糊时按六经维度快速定位 |
 | 倪海厦方剂注解 | `references/external/nihaisha/fangji-ni-annotations.md` | 查方剂时附加倪海厦临床视角 |
+| 黎明素问框架（多学派视角） | `references/models/dawn-su-wen-framework.md` | 经络解剖 × 水升火降 × 六经递进 —— 可选辨证视角 |
 | 倪海厦条文注解 | `references/external/nihaisha/tiaowen-ni-annotations.md` | 查经典条文时附加倪海厦解读 |
 
 ## 加载策略
